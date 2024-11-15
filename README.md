@@ -1,1 +1,2 @@
 # MuraLine
+Welcome to the MuraLine project repository! This repository serves as the central hub for storing, managing, and collaborating on all files related to the development of the MuraLine device—a large-scale mural measuring and blocking-out system.
